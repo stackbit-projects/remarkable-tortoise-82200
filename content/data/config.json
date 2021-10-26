@@ -1,0 +1,22 @@
+{
+    "type": "Config",
+    "header": {
+        "headerVariant": "variant-a",
+        "primaryColors": "colors-a",
+        "secondaryColors": "colors-a",
+        "backgroundWidth": "full",
+        "title": "Starter",
+        "isTitleVisible": true,
+        "logo": {
+            "type": "ImageBlock",
+            "url": "/images/logo.svg",
+            "altText": "Logo"
+        },
+        "styles": {
+            "self": {
+                "width": "narrow",
+                "padding": ["pt-5", "pb-5"]
+            }
+        }
+    }
+}
